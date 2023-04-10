@@ -25,3 +25,8 @@ E:\csharp\FiilmesAPI\FiilmesAPI\obj\Debug\net6.0\refint\FiilmesAPI.dll
 E:\csharp\FiilmesAPI\FiilmesAPI\obj\Debug\net6.0\FiilmesAPI.pdb
 E:\csharp\FiilmesAPI\FiilmesAPI\obj\Debug\net6.0\FiilmesAPI.genruntimeconfig.cache
 E:\csharp\FiilmesAPI\FiilmesAPI\obj\Debug\net6.0\ref\FiilmesAPI.dll
+E:\csharp\FiilmesAPI\FiilmesAPI\obj\Debug\net6.0\staticwebassets\msbuild.FiilmesAPI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\csharp\FiilmesAPI\FiilmesAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.FiilmesAPI.props
+E:\csharp\FiilmesAPI\FiilmesAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FiilmesAPI.props
+E:\csharp\FiilmesAPI\FiilmesAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FiilmesAPI.props
+E:\csharp\FiilmesAPI\FiilmesAPI\obj\Debug\net6.0\staticwebassets.pack.json

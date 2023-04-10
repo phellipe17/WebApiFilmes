@@ -13,32 +13,36 @@ public class FilmeController : ControllerBase
     private static int id=0;
 
     [HttpPost]
-    public void AdicionaFilme([FromBody] Filme filme)
+    public IActionResult AdicionaFilme([FromBody] Filme filme)
     {
         filme.Id=id++;
         filmes.Add(filme);
-        Console.WriteLine(filme.Titulo);
-        Console.WriteLine(filme.Duracao);
-        
+        return CreatedAtAction(nameof(RecuperaFilmeporId), new { id = filme.Id }, filme );
         
     }
 
     [HttpGet]
-    public IEnumerable<Filme> RecuperaFilme()
+    public IEnumerable<Filme> RecuperaFilme([FromQuery]int take)
     {
-        return filmes;
+        return filmes.Take(take);
     }
 
-    [HttpGet("id")]
-    public Filme? RecuperaFilmeporId(int id1)
+    [HttpGet("{id}")]
+    public IActionResult RecuperaFilmeporId(int id)
     {
-        return filmes.FirstOrDefault(filme => filme.Id == id1);
+        var filme = filmes.FirstOrDefault(filme => filme.Id == id);
+        if(filme == null) return NotFound();
+        return Ok(filme);
     }
 
-    [HttpDelete("id")]
-    public void RemoveFilme([FromBody] Filme filme)
+    [HttpDelete("{id}")]
+    public void RemoveFilme([FromBody] Filme filme,[FromBody]int id, [FromBody]int dura)
     {
+        if(filme.Id == id && filme.Duracao==dura)
+        {
         filmes.Remove(filme);
+        }
         Console.WriteLine("Filme removido.");
+
     }
 }
