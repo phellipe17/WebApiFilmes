@@ -36,9 +36,9 @@ public class FilmeController : ControllerBase
     }
 
     [HttpDelete("{id}")]
-    public void RemoveFilme([FromBody] Filme filme,[FromBody]int id, [FromBody]int dura)
+    public void RemoveFilme([FromBody] Filme filme, int id)
     {
-        if(filme.Id == id && filme.Duracao==dura)
+        if(filme.Id == id)
         {
         filmes.Remove(filme);
         }
