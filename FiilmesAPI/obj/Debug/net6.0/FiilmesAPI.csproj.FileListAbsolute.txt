@@ -30,3 +30,35 @@ E:\csharp\FiilmesAPI\FiilmesAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.F
 E:\csharp\FiilmesAPI\FiilmesAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FiilmesAPI.props
 E:\csharp\FiilmesAPI\FiilmesAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FiilmesAPI.props
 E:\csharp\FiilmesAPI\FiilmesAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\C# Estudo\WebApiFilmes\FiilmesAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\C# Estudo\WebApiFilmes\FiilmesAPI\bin\Debug\net6.0\appsettings.json
+C:\C# Estudo\WebApiFilmes\FiilmesAPI\bin\Debug\net6.0\FiilmesAPI.exe
+C:\C# Estudo\WebApiFilmes\FiilmesAPI\bin\Debug\net6.0\FiilmesAPI.deps.json
+C:\C# Estudo\WebApiFilmes\FiilmesAPI\bin\Debug\net6.0\FiilmesAPI.runtimeconfig.json
+C:\C# Estudo\WebApiFilmes\FiilmesAPI\bin\Debug\net6.0\FiilmesAPI.dll
+C:\C# Estudo\WebApiFilmes\FiilmesAPI\bin\Debug\net6.0\FiilmesAPI.pdb
+C:\C# Estudo\WebApiFilmes\FiilmesAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\C# Estudo\WebApiFilmes\FiilmesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\C# Estudo\WebApiFilmes\FiilmesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\C# Estudo\WebApiFilmes\FiilmesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\C# Estudo\WebApiFilmes\FiilmesAPI\obj\Debug\net6.0\FiilmesAPI.csproj.AssemblyReference.cache
+C:\C# Estudo\WebApiFilmes\FiilmesAPI\obj\Debug\net6.0\FiilmesAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Estudo\WebApiFilmes\FiilmesAPI\obj\Debug\net6.0\FiilmesAPI.AssemblyInfoInputs.cache
+C:\C# Estudo\WebApiFilmes\FiilmesAPI\obj\Debug\net6.0\FiilmesAPI.AssemblyInfo.cs
+C:\C# Estudo\WebApiFilmes\FiilmesAPI\obj\Debug\net6.0\FiilmesAPI.csproj.CoreCompileInputs.cache
+C:\C# Estudo\WebApiFilmes\FiilmesAPI\obj\Debug\net6.0\FiilmesAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\C# Estudo\WebApiFilmes\FiilmesAPI\obj\Debug\net6.0\FiilmesAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\C# Estudo\WebApiFilmes\FiilmesAPI\obj\Debug\net6.0\staticwebassets\msbuild.FiilmesAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\C# Estudo\WebApiFilmes\FiilmesAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.FiilmesAPI.props
+C:\C# Estudo\WebApiFilmes\FiilmesAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FiilmesAPI.props
+C:\C# Estudo\WebApiFilmes\FiilmesAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FiilmesAPI.props
+C:\C# Estudo\WebApiFilmes\FiilmesAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\C# Estudo\WebApiFilmes\FiilmesAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\C# Estudo\WebApiFilmes\FiilmesAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\C# Estudo\WebApiFilmes\FiilmesAPI\obj\Debug\net6.0\scopedcss\bundle\FiilmesAPI.styles.css
+C:\C# Estudo\WebApiFilmes\FiilmesAPI\obj\Debug\net6.0\FiilmesAPI.csproj.CopyComplete
+C:\C# Estudo\WebApiFilmes\FiilmesAPI\obj\Debug\net6.0\FiilmesAPI.dll
+C:\C# Estudo\WebApiFilmes\FiilmesAPI\obj\Debug\net6.0\refint\FiilmesAPI.dll
+C:\C# Estudo\WebApiFilmes\FiilmesAPI\obj\Debug\net6.0\FiilmesAPI.pdb
+C:\C# Estudo\WebApiFilmes\FiilmesAPI\obj\Debug\net6.0\FiilmesAPI.genruntimeconfig.cache
+C:\C# Estudo\WebApiFilmes\FiilmesAPI\obj\Debug\net6.0\ref\FiilmesAPI.dll

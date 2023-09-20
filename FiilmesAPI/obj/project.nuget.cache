@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JPAhYxoZ2r1sG7+0B0uSYODAfSjky11OJ8OBP/nujXtTLRrslP8sfcQgGNInGGFYp+BNMV9SM8kHgKu5hcIPGw==",
+  "dgSpecHash": "ScuMxwvc6zqnay+C//i4bQMG5etPLxfb1Vt+Q15eV3ErAshFYaqrH/f98Mr2zKBgpmF9dreCR1/S7In1k+Gg+w==",
   "success": true,
-  "projectFilePath": "E:\\csharp\\FiilmesAPI\\FiilmesAPI\\FiilmesAPI.csproj",
+  "projectFilePath": "C:\\C# Estudo\\WebApiFilmes\\FiilmesAPI\\FiilmesAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\phell\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\phell\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
