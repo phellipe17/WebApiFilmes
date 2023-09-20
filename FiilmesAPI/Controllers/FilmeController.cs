@@ -36,13 +36,17 @@ public class FilmeController : ControllerBase
     }
 
     [HttpDelete("{id}")]
-    public void RemoveFilme([FromBody] Filme filme,[FromBody]int id, [FromBody]int dura)
+    public void RemoveFilme([FromRoute] int id, [FromRoute] int dura)
     {
-        if(filme.Id == id && filme.Duracao==dura)
+        var filme = filmes.FirstOrDefault(f => f.Id == id && f.Duracao == dura);
+        if (filme != null)
         {
-        filmes.Remove(filme);
+            filmes.Remove(filme);
+            Console.WriteLine("Filme removido.");
         }
-        Console.WriteLine("Filme removido.");
-
+        else
+        {
+            Console.WriteLine("Filme não encontrado.");
+        }
     }
 }
